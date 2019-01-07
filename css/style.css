@@ -1,0 +1,18 @@
+.results-head {
+	height: 50vh;
+	text-align: center;	
+	margin-top: 5%;
+}
+.input1, .input2 {
+	width: 100%;
+	padding: 10px 0;
+	margin:10px 0; 
+	border-radius: 10px;
+}
+.buttons {
+	text-align: center;
+}
+.btn {
+	margin-right: 5px;
+	width:19%;
+}
